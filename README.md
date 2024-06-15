@@ -1,2 +1,2 @@
-# qcadoo-copy-super-pom-open
-copy from qcadoo
+# wg-super-pom-open
+base from qcadoo
